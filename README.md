@@ -1,13 +1,4 @@
-If your project is not explicitly constrained by the requirements of a specific license, the **MIT License** is often suggested because it is a permissive license. It allows users to reuse your code in both private and commercial projects with minimal restrictions while requiring attribution. However, if you want to enforce different usage rules or protect your intellectual property differently, you should choose an appropriate license.
-
-### Updated for `fn.py` and Licensing
-Here’s an updated version of the GitHub repository content to reflect your file name and provide license context:
-
----
-
-# **SMARTREAD AI Agent**
-
-### **Overview**
+### **SMARTREAD**
 SMARTREAD is an AI-powered dashboard designed to assist users in extracting insightful information from uploaded datasets or connected Google Sheets. Leveraging APIs like SerpAPI for web search and OpenAI for natural language processing, SMARTREAD simplifies the process of gathering and structuring information dynamically based on user queries.
 
 ---
@@ -98,10 +89,3 @@ Check out the project in action through this [Loom Video Walkthrough](#).
 This project does not include a license. By default, **all rights are reserved**, and permission is required to use, modify, or distribute the software. If you would like to use this project, please contact the author.
 
 ---
-
-This content ensures:
-1. **Proper file naming** (`fn.py` as the main application script).
-2. **Custom licensing** (no license included, so it defaults to "all rights reserved").
-3. **Clear setup and usage instructions**.
-
-Let me know if you'd like to switch to a specific license or need further adjustments!
