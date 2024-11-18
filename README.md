@@ -81,7 +81,8 @@ smartread-ai-agent/
 ---
 
 ## **Demo**
-Check out the project in action through this [Loom Video Walkthrough](#).
+Check out the project in action through this [Loom Video Walkthrough](https://drive.google.com/file/d/1sf6jC8NgddOjCcYktueQGszE-x8Qm7sG/view?usp=drive_link)
+
 
 ---
 
